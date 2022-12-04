@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyanshu-Bartwal
-- 👀 I’m interested in ... Web development and Blockchain development
-- 🌱 I’m currently learning ... Solidity programming language
-- 💞️ I’m looking to collaborate on ... Web development and Blockchain development projects
+- 👀 I’m interested in ... Web development
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ... Web development projects
 - 📫 How to reach me ... bartwalpriyanshu00@gmail.com
 
 <!---
